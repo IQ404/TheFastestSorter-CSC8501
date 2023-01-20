@@ -1,6 +1,6 @@
 # The Fastest Sorter - CSC8501
 
-Those are some sorting algorithms I wrote for one of the challenges given in the course *CSC8501: Advanced Programming for Games* as a part of Computer Game Engineering MSc provided by Newcastle University.
+Those are some sorting algorithms I wrote for one of the challenges given in the course *CSC8501: Advanced Programming for Games* as a part of the Computer Game Engineering MSc provided by Newcastle University.
 
 The challenge goes as follows:
 
